@@ -6,6 +6,10 @@ Dataset Citation: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-da
 
 Hosted URL: https://diabetes-api-ml.onrender.com/diabetes_prediction
 
+
+
+
+
 IMPLEMENTATION OF API in Python:
 
 import json
@@ -29,6 +33,10 @@ input_json = json.dumps(input_data_for_model)
 response = requests.post(url, data=input_json)
 
 print(response.text)
+
+
+
+
 
 Output:
 ![image](https://github.com/satwikbolar/diabetes_api_ml/assets/82822150/35775048-92cc-4ca2-abae-a759b6a46639)
