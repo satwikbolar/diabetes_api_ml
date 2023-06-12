@@ -10,6 +10,7 @@ Hosted URL: https://diabetes-api-ml.onrender.com/diabetes_prediction
 IMPLEMENTATION OF API: 
 
 api_implementation.py
+
 import json
 import requests
 
