@@ -7,7 +7,7 @@ Dataset Citation: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-da
 Hosted URL: https://diabetes-api-ml.onrender.com/diabetes_prediction
 
 
-IMPLEMENTATION OF API: 
+## IMPLEMENTATION OF API: 
 
 api_implementation.py
 
