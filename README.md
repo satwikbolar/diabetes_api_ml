@@ -4,7 +4,8 @@ The objective of the API is to diagnostically predict whether or not a patient h
 
 Dataset Citation: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
-Hosted URL: https://diabetes-api-ml.onrender.com/diabetes_prediction
+AVAILABLE AS API IN RAPID API HUB: https://rapidapi.com/satwikvbolar23/api/diabetes-api
+Hosted URL: https://diabetes-api-ml-1he0.onrender.com/diabetes_prediction
 
 
 ### IMPLEMENTATION OF API: 
